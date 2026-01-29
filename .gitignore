@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.sqlite3
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# VS Code / Visual Studio
+.vs/
+*.vscode/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
