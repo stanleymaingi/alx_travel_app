@@ -1,8 +1,15 @@
-# ALX Travel App Task 0
+# ALX Travel App - Task 0
 
-## Setup
-1. Create virtual environment and install dependencies.
-2. Run migrations:
-   ```bash
-   python manage.py makemigrations
-   python manage.py migrate
+## Project Overview
+This project is a Django-based travel listings application.  
+It demonstrates database modeling, API serialization, and database seeding with sample data.
+
+**Task 0 Objective:**  
+- Define database models (`Listing`, `Booking`, `Review`)  
+- Create serializers for API representation  
+- Implement a management command to seed the database  
+
+---
+
+## Folder Structure
+
